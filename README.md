@@ -67,7 +67,7 @@ _Panel de control del usuario con opciones de configuración_
 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/MichaelVairoDev/Community_Forum.git
 cd Community_Forum
 ```
 
